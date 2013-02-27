@@ -1,0 +1,12 @@
+{
+  "name": "db",
+  "version": "2.0.0",
+  "description": "db.js is a wrapper for IndexedDB to make it easier to work against, making it look more like a queryable API.",
+  "homepage": "http://aaronpowell.github.com/db.js/",
+  "author": "Aaron Powell <me@aaron-powell.com> (http://www.aaron-powell.com)",
+  "keywords": [
+    "db.js",
+    "indexeddb"
+  ],
+  "scripts": ["index.js"]
+}
